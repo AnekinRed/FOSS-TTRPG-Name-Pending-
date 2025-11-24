@@ -1,4 +1,3 @@
-> [!Introduction]
 > This is the introduction to the project and what it's about.
 
 FOSSTTRPG is Free and Open Source Software that is built on an Open Source Table Top Role Playing Game system I am designing.
