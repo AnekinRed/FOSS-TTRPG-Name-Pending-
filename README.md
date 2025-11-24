@@ -6,4 +6,4 @@ The goal is to have a client that allows you to easily navigate and manage chara
 Along with easy and accessible indexing of the rules so that any and all rulings can be decided in seconds.
 
 As for the TTRPG portion of the project you can read about all the rules in 
-[System Rules](SystemRules/System Rules.md)
+[System Rules](docs/SystemRules/System Rules.md)
