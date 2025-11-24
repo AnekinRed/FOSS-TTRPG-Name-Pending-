@@ -1,1 +1,0 @@
-this is a testnote to test obsidian functionality.
