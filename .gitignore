@@ -20,11 +20,5 @@ target
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-.obsidian/*
-!.obsidian/app.json
-!.obsidian/appearance.json
-!.obsidian/config
-!.obsidian/community-plugins.json
-!.obsidian/core-plugins.json
-!.obsidian/graph.json
-!.obsidian/hotkeys.json
+.obsidian/
+
