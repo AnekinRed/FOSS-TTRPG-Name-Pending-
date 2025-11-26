@@ -1,0 +1,30 @@
+### What is a Table Top Role Playing Game (TTRPG)? 
+A Table Top Role Playing Game is a co-operative story telling game you play with friends over a table where Players role-play as Characters they've created using dice to determine the outcomes of choices they make in a Campaign the Game Master governs over. Forging a tale of glory, whimsy, or pure evil as you and your friends go on an unforgettable adventure.
+
+### What is a Game Master (GM)?
+A Game Master is the person at the table who decides the rules, and plays as the world itself which the player characters will interact with. Usually including Non Player Characters (NPCs) such as bystanders, villains, rivals, or that one rat the Party adopted. They are Judge, Jury, and Executioner. Which means they have the final say on what goes in a game. Even if it contradicts the rules written here.
+
+### What is a Campaign?
+A Campaign is a scenario that takes place in a world the GM Rules and Governs over. This can be a pre-written Campaign that details a world and scenario the Players will interact with as their Characters, or one entirely made up and written by the GM. Some examples of a campaign could be a quest to slay an evil dragon, a murder mystery to try and find who shot Johnny, or maybe even a tea party with a demon to try and negotiate a way to get the soul of Princess Juliana back.
+They can be as long hundreds of sessions or a one-shot where the Campaign ends after that session is done; it is up to the GM to decide that. We will go more into detail on how to start, run, and end a Campaign after we've laid out the ground-works for the system rules, and mechanics. Or you can skip ahead to that part in [How to run a Campaign](How%20to%20run%20a%20Campaign.md)
+
+### What is a Player?
+A player is a person at the table participating in the game. So technically the GM is a player, but that's not what Player means in this context. The Player is the one who controls, and role-plays a main character in the world who is a part of the Party the scenario and world revolves around. Each Player at the table controls **a** main character (Not **The** main character); they are all equally important to the game, and Campaign.
+
+### What is a Character?
+A character is a fictional person written by someone. In a TTRPG there are three types of Characters which we will go over: Player Characters (PC), Non Player Characters (NPC), and The Big Bad Evil Guy (BBEG). 
+##### Player Characters (PCs)
+Characters created and controlled by the Players. Often the focus of the narrative, and more detailed than NPC; in character traits, abilities, general power level, and progression. They are the Characters that you will stick with throughout the entire Campaign; they may retire or die before the Campaign is over. In which case so long as there is one character in the Party still alive Players can bring in new Characters to replace the ones no longer with the Party. **If every PC in the Party dies before new ones can replace them The campaign is lost and the game is over (More on this later)** *A Party is a group of PCs*
+##### Non Player Characters (NPCs)
+Characters created and controlled by the GM. Exist to supplement the campaign, fill out the world, and make the scenario work. Their importance is generally secondary to that of PCs, sometimes they fill a role equally important to that of the PCs, but they are almost never more important. They may be a store-clerk, farm animal, antagonistic force, or even a god; whatever is required to make the campaign fun.
+##### Big Bad Evil Guys (BBEGs)
+BBEGs are a type of NPC. Contrary to what the name says a BBEG does not have to be a guy, or one person; they don't even have to be Big Bad or Evil. However they are always the primary opposing force to your Party which creates the conflict that drives the Campaign forwards. 
+More often than not the goal of a Campaign is to defeat the BBEG, or otherwise resolve the Party's conflict with them.
+
+### What Dice do we use?
+FOSSTTRPG is based on seven types of dice. 
+20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
+### Words of warning: 
+*This is meant to be a game that is played and enjoyed together. It is not Players versus Game Master. There is no one winner or loser. There is no competition. It is imperative that everyone works together and communicate to properly ensure that everyone has a good time. Yes the Game Master is Judge Jury and Executioner. Their word is final on what goes. Even if it contradicts the rules layed out in FOSSTTRPG, but their goal should be to have fun with the other Players. Same with everyone else at the table. 
+No one Player or Character is more important to the game than the others. Everyone should be equally involved in the game and story telling process.
+It is extremely important that everyone clearly communicates and sets proper boundaries with what they're ok with happening at the table. Nothing should come at the expense of everyone having fun.*
