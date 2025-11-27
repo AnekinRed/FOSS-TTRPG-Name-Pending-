@@ -1,3 +1,5 @@
+# The Basics
+
 ### What is a Table Top Role Playing Game (TTRPG)? 
 A Table Top Role Playing Game is a co-operative story telling game you play with friends over a table where Players role-play as Characters they've created using dice to determine the outcomes of choices they make in a Campaign the Game Master governs over. Forging a tale of glory, whimsy, or pure evil as you and your friends go on an unforgettable adventure.
 
@@ -7,7 +9,7 @@ A Game Master is the person at the table who decides the rules, and plays as the
 ### What is a Campaign?
 A Campaign is a scenario that takes place in a world the GM Rules and Governs over. This can be a pre-written Campaign that details a world and scenario the Players will interact with as their Characters, or one entirely made up and written by the GM. Some examples of a campaign could be a quest to slay an evil dragon, a murder mystery to try and find who shot Johnny, or maybe even a tea party with a demon to try and negotiate a way to get the soul of Princess Juliana back.
 They can be as long hundreds of sessions or a one-shot where the Campaign ends after that session is done; it is up to the GM to decide that. 
-*We will go more into detail on how to start, run, and end a Campaign after we've laid out the ground-works for the system rules, and mechanics. Or you can skip ahead to that part in [How to run a Campaign](How%20to%20run%20a%20Campaign.md)
+*We will go more into detail on how to start, run, and end a Campaign after we've laid out the ground-works for the system rules, and mechanics. Or you can skip ahead to that part in [How to run a Campaign](How%20to%20run%20a%20Campaign.md)*
 
 ### What is a Player?
 A player is a person at the table participating in the game. So technically the GM is a player, but that's not what Player means in this context. The Player is the one who controls, and role-plays a main character in the world who is a part of the Party the scenario and world revolves around. Each Player at the table controls **a** main character (Not **The** main character); they are all equally important to the game, and Campaign.
@@ -32,7 +34,7 @@ FOSSTTRPG can be played in a various different ways. Be that using a square, or 
 
 ### Currency & Economy
 Just like with Measurement you are free to employ whatever economic system you want into your game. Gold, Dollars, or Fartcoin; whatever you please. For simplicity's sake the currency used in the rules is the Coin. 1 Coin is one unit of currency. You may leave it as is or adapt it into your own system. Prices of items are listed based on the estimated costs of creating them yourself with the Optional [Item Creation Rules](Item%20Creation%20Rules.md). 
-*Again we'll go more into detail about rewarding the Party, and the Economy in general later in [How to run an Economy](SystemRules/GMsGuide/How%20to%20run%20an%20Economy) 
+*Again we'll go more into detail about rewarding the Party, and the Economy in general later in [How to run an Economy](SystemRules/GMsGuide/How%20to%20run%20an%20Economy) *
 
 ### Words of warning: 
 *This is meant to be a game that is played and enjoyed together. It is not Players versus Game Master. There is no one winner or loser. There is no competition. It is imperative that everyone works together and communicate to properly ensure that everyone has a good time. Yes the Game Master is Judge Jury and Executioner. Their word is final on what goes. Even if it contradicts the rules layed out in FOSSTTRPG, but their goal should be to have fun with the other Players. Same with everyone else at the table. 
