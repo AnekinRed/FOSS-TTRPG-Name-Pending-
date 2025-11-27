@@ -34,7 +34,7 @@ FOSSTTRPG can be played in a various different ways. Be that using a square, or 
 
 ### Currency & Economy
 Just like with Measurement you are free to employ whatever economic system you want into your game. Gold, Dollars, or Fartcoin; whatever you please. For simplicity's sake the currency used in the rules is the Coin. 1 Coin is one unit of currency. You may leave it as is or adapt it into your own system. Prices of items are listed based on the estimated costs of creating them yourself with the Optional [Item Creation Rules](Item%20Creation%20Rules.md). 
-*Again we'll go more into detail about rewarding the Party, and the Economy in general later in [How to run an Economy](SystemRules/GMsGuide/How%20to%20run%20an%20Economy) *
+*Again we'll go more into detail about rewarding the Party, and the Economy in general later in [How to run an Economy](SystemRules/GMsGuide/How%20to%20run%20an%20Economy)*
 
 ### Words of warning: 
 *This is meant to be a game that is played and enjoyed together. It is not Players versus Game Master. There is no one winner or loser. There is no competition. It is imperative that everyone works together and communicate to properly ensure that everyone has a good time. Yes the Game Master is Judge Jury and Executioner. Their word is final on what goes. Even if it contradicts the rules layed out in FOSSTTRPG, but their goal should be to have fun with the other Players. Same with everyone else at the table. 
