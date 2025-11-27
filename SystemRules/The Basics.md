@@ -3,6 +3,13 @@
 ### What is a Table Top Role Playing Game (TTRPG)? 
 A Table Top Role Playing Game is a co-operative story telling game you play with friends over a table where Players role-play as Characters they've created using dice to determine the outcomes of choices they make in a Campaign the Game Master governs over. Forging a tale of glory, whimsy, or pure evil as you and your friends go on an unforgettable adventure.
 
+> Before we get to how to play. Let's talk about the Dice we use, and some core concepts related to TTRPGs in general. <br> If you're already familiar with TTRPGs you can skip ahead to the How do we play section
+
+### What Dice do we use?
+FOSSTTRPG is based on eight types of dice. 
+100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
+>You roll a d100 by using two different d10 dice. One normal one to notate the first digit, and another one with multiples of 10 to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as 01 or 40 depending on which dice rolled 0.
+
 ### What is a Game Master (GM)?
 A Game Master is the person at the table who decides the rules, and plays as the world itself which the player characters will interact with. Usually including Non Player Characters (NPCs) such as bystanders, villains, rivals, or that one rat the Party adopted. They are Judge, Jury, and Executioner. Which means they have the final say on what goes in a game. Even if it contradicts the rules written here.
 
@@ -24,10 +31,8 @@ Characters created and controlled by the GM. Exist to supplement the campaign, f
 BBEGs are a type of NPC. Contrary to what the name says a BBEG does not have to be a guy, or one person; they don't even have to be Big Bad or Evil. However they are always the primary opposing force to your Party which creates the conflict that drives the Campaign forwards. 
 More often than not the goal of a Campaign is to defeat the BBEG, or otherwise resolve the Party's conflict with them.
 
-### What Dice do we use?
-FOSSTTRPG is based on eight types of dice. 
-100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
->You roll a d100 by using 2d10 dice. One to notate the first digit and another to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as 01 or 10 depending on which dice rolled 0.
+### How do we play?
+When playing FOSSTTRPG PCs are bound to make decisions with potential consequences. To determine the consequences the GM asks the Player making the decision to Roll a d20 and add modifiers from one of the Character's Base Stats, and/or Boons. After dice are rolled and numbers are added together the GM tells the Player not only whether or not they were successful, but how successful based on how much above or below the Difficulty Check (DC). If the Roll was within 3 of the DC in any one direction its is either a Close Call, or Near Miss; For Success, or Failure it's within 7; Outside of this you get a Critical Success or Failure. 
 
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
@@ -40,3 +45,4 @@ Just like with Measurement you are free to employ whatever economic system you w
 *This is meant to be a game that is played and enjoyed together. It is not Players versus Game Master. There is no one winner or loser. There is no competition. It is imperative that everyone works together and communicate to properly ensure that everyone has a good time. Yes the Game Master is Judge Jury and Executioner. Their word is final on what goes. Even if it contradicts the rules layed out in FOSSTTRPG, but their goal should be to have fun with the other Players. Same with everyone else at the table. 
 No one Player or Character is more important to the game than the others. Everyone should be equally involved in the game and story telling process.
 It is extremely important that everyone clearly communicates and sets proper boundaries with what they're ok with happening at the table. Nothing should come at the expense of everyone having fun.*
+
