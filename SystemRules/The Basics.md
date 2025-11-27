@@ -6,7 +6,8 @@ A Game Master is the person at the table who decides the rules, and plays as the
 
 ### What is a Campaign?
 A Campaign is a scenario that takes place in a world the GM Rules and Governs over. This can be a pre-written Campaign that details a world and scenario the Players will interact with as their Characters, or one entirely made up and written by the GM. Some examples of a campaign could be a quest to slay an evil dragon, a murder mystery to try and find who shot Johnny, or maybe even a tea party with a demon to try and negotiate a way to get the soul of Princess Juliana back.
-They can be as long hundreds of sessions or a one-shot where the Campaign ends after that session is done; it is up to the GM to decide that. We will go more into detail on how to start, run, and end a Campaign after we've laid out the ground-works for the system rules, and mechanics. Or you can skip ahead to that part in [How to run a Campaign](How%20to%20run%20a%20Campaign.md)
+They can be as long hundreds of sessions or a one-shot where the Campaign ends after that session is done; it is up to the GM to decide that. 
+*We will go more into detail on how to start, run, and end a Campaign after we've laid out the ground-works for the system rules, and mechanics. Or you can skip ahead to that part in [How to run a Campaign](How%20to%20run%20a%20Campaign.md)
 
 ### What is a Player?
 A player is a person at the table participating in the game. So technically the GM is a player, but that's not what Player means in this context. The Player is the one who controls, and role-plays a main character in the world who is a part of the Party the scenario and world revolves around. Each Player at the table controls **a** main character (Not **The** main character); they are all equally important to the game, and Campaign.
@@ -22,8 +23,17 @@ BBEGs are a type of NPC. Contrary to what the name says a BBEG does not have to 
 More often than not the goal of a Campaign is to defeat the BBEG, or otherwise resolve the Party's conflict with them.
 
 ### What Dice do we use?
-FOSSTTRPG is based on seven types of dice. 
-20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
+FOSSTTRPG is based on eight types of dice. 
+100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
+>You roll a d100 by using 2d10 dice. One to notate the first digit and another to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as 01 or 10 depending on which dice rolled 0.
+
+### Measurement
+FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
+
+### Currency & Economy
+Just like with Measurement you are free to employ whatever economic system you want into your game. Gold, Dollars, or Fartcoin; whatever you please. For simplicity's sake the currency used in the rules is the Coin. 1 Coin is one unit of currency. You may leave it as is or adapt it into your own system. Prices of items are listed based on the estimated costs of creating them yourself with the Optional [Item Creation Rules](Item%20Creation%20Rules.md). 
+*Again we'll go more into detail about rewarding the Party, and the Economy in general later in [How to run an Economy](SystemRules/GMsGuide/How%20to%20run%20an%20Economy) 
+
 ### Words of warning: 
 *This is meant to be a game that is played and enjoyed together. It is not Players versus Game Master. There is no one winner or loser. There is no competition. It is imperative that everyone works together and communicate to properly ensure that everyone has a good time. Yes the Game Master is Judge Jury and Executioner. Their word is final on what goes. Even if it contradicts the rules layed out in FOSSTTRPG, but their goal should be to have fun with the other Players. Same with everyone else at the table. 
 No one Player or Character is more important to the game than the others. Everyone should be equally involved in the game and story telling process.
