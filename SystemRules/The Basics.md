@@ -32,7 +32,16 @@ BBEGs are a type of NPC. Contrary to what the name says a BBEG does not have to 
 More often than not the goal of a Campaign is to defeat the BBEG, or otherwise resolve the Party's conflict with them.
 
 ### How do we play?
-When playing FOSSTTRPG PCs are bound to make decisions with potential consequences. To determine the consequences the GM asks the Player making the decision to Roll a d20 and add modifiers from one of the Character's Base Stats, and/or Boons. After dice are rolled and numbers are added together the GM tells the Player not only whether or not they were successful, but how successful based on how much above or below the Difficulty Check (DC). If the Roll was within 3 of the DC in any one direction its is either a Close Call, or Near Miss; For Success, or Failure it's within 7; Outside of this you get a Critical Success or Failure. 
+When playing FOSSTTRPG Players can make decisions. Some of them will have consequences. To determine those consequences the GM asks the Player to make a Roll. When you make a Roll the GM Secretly sets a number called a Difficulty Check (DC), and Openly selects a Stat. The Player then rolls a d20, and adds the modifier of the chosen stat along with any Bonuses they get from their Boons to get your Total. If the Total is higher than the DC you succeed but if it's lower you fail. However the amount you succeed or fail depends on how far away from the DC the Total is.
+###### Close-call
+When the Total is less than 3 higher than the DC you get a Close-call. The Player barely succeeds in what they want, and might have to deal with some minor complications, but they got what they wanted.
+###### Success
+When the Total is more than 3 higher than the DC you get a Success. The Player successfully did what they wanted to, no strings attached.
+###### Near-miss
+When the Total is less than 3 lower than the DC you get a Near-miss. The Player barely failed, and didn't get what they wanted; as a consolation prise the consequences won't be that bad. Things could be worse.
+###### Failure
+This is worse. When the Total is more than 3 lower than the DC you get Failure. The Player fails
+sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, things can't get much worse.
 
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
