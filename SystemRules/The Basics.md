@@ -41,7 +41,9 @@ When the Total is more than 3 higher than the DC you get a Success. The Player s
 When the Total is less than 3 lower than the DC you get a Near-miss. The Player barely failed, and didn't get what they wanted; as a consolation prise the consequences won't be that bad. Things could be worse.
 ###### Failure
 This is worse. When the Total is more than 3 lower than the DC you get Failure. The Player fails
-sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, things can't get much worse.
+sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, you can't roll worse.
+###### Critical Success
+This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP) 
 
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
