@@ -24,7 +24,7 @@ A player is a person at the table participating in the game. So technically the 
 ### What is a Character?
 A character is a fictional person written by someone. In a TTRPG there are three types of Characters which we will go over: Player Characters (PC), Non Player Characters (NPC), and The Big Bad Evil Guy (BBEG). 
 ##### Player Characters (PCs)
-Characters created and controlled by the Players. Often the focus of the narrative, and more detailed than NPC; in character traits, abilities, general power level, and progression. They are the Characters that you will stick with throughout the entire Campaign; they may retire or die before the Campaign is over. In which case so long as there is one character in the Party still alive Players can bring in new Characters to replace the ones no longer with the Party. **If every PC in the Party dies before new ones can replace them The campaign is lost and the game is over (More on this later)** *A Party is a group of PCs*
+Characters created and controlled by the Players. Often the focus of the narrative, and more detailed than NPC; in character traits, abilities, general power level, and progression. They are the Characters that Players will stick with throughout the entire Campaign; they may retire or die before the Campaign is over. In which case so long as there is one character in the Party still alive Players can bring in new Characters to replace the ones no longer with the Party. **If every PC in the Party dies before new ones can replace them The campaign is lost and the game is over (More on this later)** *A Party is a group of PCs*
 ##### Non Player Characters (NPCs)
 Characters created and controlled by the GM. Exist to supplement the campaign, fill out the world, and make the scenario work. Their importance is generally secondary to that of PCs, sometimes they fill a role equally important to that of the PCs, but they are almost never more important. They may be a store-clerk, farm animal, antagonistic force, or even a god; whatever is required to make the campaign fun.
 ##### Big Bad Evil Guys (BBEGs)
@@ -32,15 +32,17 @@ BBEGs are a type of NPC. Contrary to what the name says a BBEG does not have to 
 More often than not the goal of a Campaign is to defeat the BBEG, or otherwise resolve the Party's conflict with them.
 
 ### How do we play?
-When playing FOSSTTRPG Players can make decisions. Some of them will have consequences. To determine those consequences the GM asks the Player to make a Roll. When you make a Roll the GM Secretly sets a number called a Difficulty Check (DC), and Openly selects a Stat. The Player then rolls a d20, and adds the modifier of the chosen stat along with any Bonuses they get from their Boons to get your Total. If the Total is higher than the DC you succeed but if it's lower you fail. However the amount you succeed or fail depends on how far away from the DC the Total is.
+When playing FOSSTTRPG Players can do things, or in other words perform Actions. What kinds of Actions? Any kinds of Actions! So long as you have the Components and Action Points (AP) to build them. 
+There are three fundamental types of Actions: Simple Actions, Difficult Actions, and Union Actions. Simple Actions are Actions that require no effort to perform; things like eating, opening doors, walking, running, etc; you can almost always perform Simple Actions. However It is up to the GM's discretion when you can and cannot perform any one Action, but as a general rule of thumb if there's nothing stopping you from doing it, it's a Simple Action. 
+Difficult Actions are Actions which have some difficulty to them; meaning there is potential for Failure, and consequences. Examples of such Actions may include: Arm wrestling, studying, chasing down a thief, brewing a potion, jumping across rooftops, climbing a rope, attempting to see at long distances, healing an injury, 
 ###### Close-call
-When the Total is less than 3 higher than the DC you get a Close-call. The Player barely succeeds in what they want, and might have to deal with some minor complications, but they got what they wanted.
+When the Total is less than 2 higher than the DC you get a Close-call. The Player barely succeeds in what they want, and might have to deal with some minor complications, but they got what they wanted.
 ###### Success
-When the Total is more than 3 higher than the DC you get a Success. The Player successfully did what they wanted to, no strings attached.
+When the Total is more than 2 higher than the DC you get a Success. The Player successfully did what they wanted to, no strings attached.
 ###### Near-miss
-When the Total is less than 3 lower than the DC you get a Near-miss. The Player barely failed, and didn't get what they wanted; as a consolation prise the consequences won't be that bad. Things could be worse.
+When the Total is less than 2 lower than the DC you get a Near-miss. The Player barely failed, and didn't get what they wanted; as a consolation prise the consequences won't be that bad. Things could be worse.
 ###### Failure
-This is worse. When the Total is more than 3 lower than the DC you get Failure. The Player fails
+This is worse. When the Total is more than 2 lower than the DC you get Failure. The Player fails
 sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, you can't roll worse.
 ###### Critical Success
 This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP) 
