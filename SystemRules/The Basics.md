@@ -33,8 +33,13 @@ More often than not the goal of a Campaign is to defeat the BBEG, or otherwise r
 
 ### How do we play?
 When playing FOSSTTRPG Players can do things, or in other words perform Actions. What kinds of Actions? Any kinds of Actions! So long as you have the Components and Action Points (AP) to build them. 
-There are three fundamental types of Actions: Simple Actions, Difficult Actions, and Union Actions. Simple Actions are Actions that require no effort to perform; things like eating, opening doors, walking, running, etc; you can almost always perform Simple Actions. However It is up to the GM's discretion when you can and cannot perform any one Action, but as a general rule of thumb if there's nothing stopping you from doing it, it's a Simple Action. 
-Difficult Actions are Actions which have some difficulty to them; meaning there is potential for Failure, and consequences. Examples of such Actions may include: Arm wrestling, studying, chasing down a thief, brewing a potion, jumping across rooftops, climbing a rope, attempting to see at long distances, healing an injury, 
+There are three fundamental types of Actions: Simple Actions, Difficult Actions, and Union Actions. 
+###### Simple Actions
+Simple Actions are Actions that require no effort to perform; things like eating, opening doors, walking, running, etc; you can almost always perform Simple Actions. However It is up to the GM's discretion when you can and cannot perform any one Action, but as a general rule of thumb if there's nothing stopping you from doing it, it's a Simple Action. 
+###### Difficult Actions
+Difficult Actions are Actions which have some difficulty to them; meaning there is potential for Failure, and consequences. Examples of such Actions may include: Arm wrestling, studying, chasing down a thief, brewing a potion, jumping across rooftops, climbing a rope, attempting to see at long distances, healing an injury, etc... When a Player wants to perform a Difficult Action the GM will secretly set a Difficulty Check (DC) based on how difficult the task is, and then ask the Player to make a Roll. When you make a Roll you Build a Difficult Action with your AP consisting of various dice and modifiers from your Components and Boons. After you roll your Difficult Action you add together the dice and modifiers to get your Total. You can also perform a Union Action Instead of performing a Difficult Action to make a Roll.
+###### Union Actions
+Union Actions are the third type of Action where you Build an Action alongside your Party. It can be just one other PC or it can be the whole Party; Each Participant has to spend 1 additional AP per Character participating in the Union Action in order to initiate it. After the Union Action is initiated everyone can contribute Components and Boons to the Roll. After everyone has Locked their Components and Boons you make the roll, Add together the dice and modifiers to get your Total just like with Difficult Actions.
 ###### Close-call
 When the Total is less than 2 higher than the DC you get a Close-call. The Player barely succeeds in what they want, and might have to deal with some minor complications, but they got what they wanted.
 ###### Success
@@ -45,7 +50,10 @@ When the Total is less than 2 lower than the DC you get a Near-miss. The Player 
 This is worse. When the Total is more than 2 lower than the DC you get Failure. The Player fails
 sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, you can't roll worse.
 ###### Critical Success
-This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP) 
+This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP). Additionally if a Union Action was Made for the Roll every participant gets a BP.
+
+### Components and Building Actions
+When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Dice, Modifier, Scale Attribute, and Description.
 
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
