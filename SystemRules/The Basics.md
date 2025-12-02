@@ -53,11 +53,14 @@ sometimes spectacularly. The Player must now deal with the consequences of their
 This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP). Additionally if a Union Action was Made for the Roll every participant gets a BP.
 
 ### Components and Building Actions
-When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Time Cost, Dice, Modifier, Scale Attribute, and Description displayed on the digital (or physical) Component Card.  
+When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Time Cost, Dice, Modifier, Scale Attribute, Requirements, and Description displayed on the digital (or physical) Component Card.  
 ###### Action Point (AP) Cost
 AP Cost is the amount of AP it costs both to Initialise, and Scale the Component. When you Initialise the Component you pay the Initial AP Cost before adding the Component to your Action at Level 1. You can optionally pay more AP to Scale the Component. Components can be Scaled up to Level 6 on their own, and up to Level 7 in a Union Action. However AP Cost is not Linear. Meaning that the AP Cost to Scale depends on the Level you're Scaling towards. The AP Cost per Level is displayed as a series of numbers similar to this: "1 | 1 | 1 | 1 | 1 | 1 | 10".
 In this example the Initial AP Cost is 1, and remains 1 for every Level you Scale until Level 7 where the AP Cost is 10.
-
+AP is a Time Limited Resource that you only regain at the end of a Scene or at the start of your Action Phase in Combat based on your Character Level and Potential Stat. *The terminology *
+Below the AP Cost is Time Cost.
+###### Time Cost
+*Time Cost is something we'll go into greater detail with later as it's how you determine "turn order" during Combat.* Time Cost is a secondary currency that you automatically spend in order to Build Actions. It is primarily used to determine how long it takes to perform an Action
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
 
