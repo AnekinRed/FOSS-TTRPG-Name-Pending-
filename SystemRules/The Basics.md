@@ -7,7 +7,7 @@ A Table Top Role Playing Game is a co-operative story telling game you play with
 
 ### What Dice do we use?
 FOSSTTRPG is based on eight types of dice. 
-100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Type) or 1d20. Number notates the amount of dice you roll and Type is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
+100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Level) or 1d20. Number notates the amount of dice you roll and Level is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
 >You roll a d100 by using two different d10 dice. One normal one to notate the first digit, and another one with multiples of 10 to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as 01 or 40 depending on which dice rolled 0.
 
 ### What is a Game Master (GM)?
@@ -53,14 +53,25 @@ sometimes spectacularly. The Player must now deal with the consequences of their
 This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP). Additionally if a Union Action was Made for the Roll every participant gets a BP.
 
 ### Components and Building Actions
-When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Time Cost, Dice, Modifier, Scale Attribute, Requirements, and Description displayed on the digital (or physical) Component Card.  
+When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Type, Requirements, and Description displayed on the digital (or physical) Component Card.  
 ###### Action Point (AP) Cost
 AP Cost is the amount of AP it costs both to Initialise, and Scale the Component. When you Initialise the Component you pay the Initial AP Cost before adding the Component to your Action at Level 1. You can optionally pay more AP to Scale the Component. Components can be Scaled up to Level 6 on their own, and up to Level 7 in a Union Action. However AP Cost is not Linear. Meaning that the AP Cost to Scale depends on the Level you're Scaling towards. The AP Cost per Level is displayed as a series of numbers similar to this: "1 | 1 | 1 | 1 | 1 | 1 | 10".
 In this example the Initial AP Cost is 1, and remains 1 for every Level you Scale until Level 7 where the AP Cost is 10.
 AP is a Time Limited Resource that you only regain at the end of a Scene or at the start of your Action Phase in Combat based on your Character Level and Potential Stat. *The terminology used here will be explained at various points in the Rules. What this means for right now is that you shouldn't go and spend all of your AP on one big Action as you will be starved of it for Actions you want to take later in the same Scene or during Combat. However AP is a plentiful resource so don't be afraid to spend a lot over time as you will always be regaining AP.*
-Below the AP Cost is Time Cost.
-###### Time Cost
-*Time Cost is something we'll go into greater detail with later as it's how you determine "turn order" during Combat.* Time Cost is a secondary currency that you automatically spend in order to Build Actions. It is primarily used to determine how long it takes to perform an Action
+###### Type 
+Every Component can be Categorised into 3 different Types of Components. Primary, Sub, and Passive. 
+Primary Components are the foundational Component of your Action; They determine the dice Type, Initial dice, Damage Type (if there is damage), the list goes on. 
+Sub Components are supplementary components which allow you to add additional properties to your Primary Component. Such as a Modifier number based on one of the Base Stats, and or Extra dice to boost the Total; Range or increases to Spells; Cleaving properties to a powerful swing to hit multiple enemies; Disarming properties; more granular Targeting; the list goes on. You can only have one Primary Component per Action but you can have as many Secondary Components as you want supporting it.
+Passive Components are permanently active Components that alter the properties of Characters or other Components like boosting the Initial Level of a Chosen Component, increasing movement speed, letting you fight better with swords, making certain types of Magic cheaper to use, again the list goes on and on and on and on. *Which is why we have a handy [List of Components](SystemRules/Compendium/List%20of%20Components.md) where you can browse All of the available Components currently in the game (Over time more Components will be added)*
+###### Requirements
+Some Components have Requirements which must be met before they can be added to a PC. Usually these come in the form of Level Requirements, and Stat Requirements. But what do these mean? Well Requirements are things a PC has to have in order to be able to take a Component.
+Such as Magic based Components all Requiring at least 1 Magic, Or more Powerful Components requiring a higher Level PC. 
+###### Description
+The Description will describe what the Component can do mechanically, and the base concept of the Component. Such as The Secondary Component Twist: which lets you add an additional dice to your Primary Component by adding a Twisting motion to somewhere in your Action. Say you want to disarm someone you can use Primary Component Bind and Twist to lock your blade with your opponent and twist it out of their arm. Perhaps you want to stab someone and twist the knife in their gut for more damage. Maybe even add a Twisting force to your Wind magic to create a Whirlwind of sorts to fly faster.
+The Description will also describe how the Component's Properties Scale. Meaning that if you Scale one Component different things will increase in comparison to if you Scaled another Component. Bind for example would increase the dice Level of the Component, while Secondary Component Analyse would let you add your Knowledge Stat to the Roll again
+### Performing the Action
+There are no Limitations to what kinds of Actions you can theoretically build. However in order to Perform the Action the Player (Or the GM if it's an NPC Performing the Action) must be able to describe the motions of the Action, and make sure the others at the table understand how the Components help Build the Action. 
+
 ### Measurement
 FOSSTTRPG can be played in a various different ways. Be that using a square, or hexagonal grid; theatre of mind; or measuring tapes. Any style your table prefers can be used. Because of this in game distance is notated as Units. 1 Unit is 1 square on a square grid, 1 unit on your measuring tape, or whatever you want to represent 1 Unit at your table; that representation should be a singular constant. Meaning that only one thing should be used to represent 1 Unit at the table at a time. However it is your game at your table. So if you want a pencil, eraser, and your cat all at the same time to represent a unit you can. No guarantees it will work but you can.
 
@@ -73,3 +84,4 @@ Just like with Measurement you are free to employ whatever economic system you w
 No one Player or Character is more important to the game than the others. Everyone should be equally involved in the game and story telling process.
 It is extremely important that everyone clearly communicates and sets proper boundaries with what they're ok with happening at the table. Nothing should come at the expense of everyone having fun.*
 
+Now that you know the basics of FOSSTTRPG we can move on to Creating your Character in [Character Creation](SystemRules/PlayersHandbook/Character%20Creation.md). 
