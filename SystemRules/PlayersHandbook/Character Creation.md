@@ -10,13 +10,13 @@ Additionally we highly recommend that you communicate with both your GM and othe
 If you have trouble with figuring out who your Character is here's a step by step guide on how to write a Player Character.
 If you're not interested in that. Skip ahead to Base Stats.
 *This guide is not a concrete part of the Rules, and should not be treated as such. You and the rest of your table are free to create your Characters however you want.*
-###### Theme
+##### Theme
 A Character's theme is the most important part of any Character. It is their lifeblood, and what informs everything about them. But what is a theme? 
 In this context a theme is a statement that defines a Character. Such as "To slice is to converse." or "A hero always helps another". You can have multiple themes, but keeping things simple often yields the best results.
 You don't necessarily have to find a theme to build a Character around. However once you have built a Character you can try to find a theme within what you've got. Having a theme in mind will help you not only with role play, but also in what to build your Character into. 
 
 After you've chosen a theme you might already have figured out who your Character is. If you don't feel like you have a good enough grasp you can further flesh out their personality, and backstory. Otherwise feel free to skip ahead to Base Stats.
-###### Personality, backstory and everything else.
+##### Personality, backstory and everything else.
 Generally a Character's personality is informed by their theme, and past aka backstory. You don't necessarily have to write a lengthy backstory. A sentence or two is perfectly fine; anything longer than a page or two can become hard to keep track of so be careful. If you don't have any ideas for a backstory figure out their personality first.
 A person's nature along with how they were nurtured both inform how they act today. The same goes for Characters. There are many different pasts that can inform a Character's personality; to find the one that fits your Character think of their theme as their nature, and their past & backstory as how they were nurtured. The lessons they've learned up until the start of the Campaign informs their theme on how to act in various situations. 
 Someone happy go lucky might have a theme of "A good smile can heal any heartache.", but their past may be tumultuous, and filled with unimaginable horrors. A Character like this may end up a clown or other kind of entertainer. Smiling away; entertaining others day in, and day out. All to help others be happy in spite of life. Very empathetic to the suffering of others, and able to relate where others can't. Because they're well acquainted with pain; they're unable to bring harm to others. 
@@ -30,15 +30,15 @@ there's more to writing a Character than just this, but this should be good enou
 ### Base Stats
 At the core of every Character you will find their Base Stats. It's what every mechanical aspect of them is based off.
 There are 6 Base Stats that outline a Character's capabilities along with a 7th Stat that stands at the core of everything in the system. 
-###### Strength
+##### Strength
 Embodies physical strength, raw power, endurance, athleticism, and constitution. Great at facing challenges head on, but surprisingly versatile in scenarios where you don't want to crush skulls.
 Sheer force defines Strength, but the versatility in application of said force is what makes Strength truly powerful.
-###### Agility
+##### Agility
 Embodies speed, precision, mobility, and dexterity. Great at evading strikes, gazes, and manoeuvring through sticky situations. Even better at precision attacks to break through even the toughest of guards. Agility is best defined by it's fine motor control, it's versatility in a wide array of scenarios, and overall slipperiness. 
-###### Magic
+##### Magic
 Outlines magical capability. Aka how well you throw fireballs, shoot lightning from your fingertips, mend broken items, melt the flesh off someone's bones, teleport behind somebody, self destruct in a blaze of glory, or whatever else you can imagine. Magic is defined by creating something out of nothing. It is fundamentally extremely powerful; it is however not all powerful. It is very easy to over use magic, and there are significant consequences for doing so. 
-###### Knowledge
+##### Knowledge
 Embodies comprehension, observation, experience, and strategics. Work smarter not harder by using the mind to better understand a tricky problem, find the weaknesses of an enemy to strike better, or even to tinker with and improve gadgets. Knowledge is power; it's best defined by the rigorous study, experimentation, and exploration you've experienced which you now leverage in a wide variety of scenarios.
-###### Instinct
+##### Instinct
 Embodies reflexes, perception, insight, impulse, and aptitude. 
-###### Presence
+##### Presence
