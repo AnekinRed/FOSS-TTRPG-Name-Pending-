@@ -8,7 +8,7 @@ A Table Top Role Playing Game is a co-operative story telling game you play with
 ### What Dice do we use?
 FOSSTTRPG is based on eight types of dice. 
 100 (Percentile), 20, 12, 10, 8, 6, and 4 sided dice. When each dice is notated it will be written like this (Number)d(Level) or 1d20. Number notates the amount of dice you roll and Level is the type of dice/the amount of sides on the dice you roll. For example 1d20 is one twenty sided dice. 
->You roll a d100 by using two different d10 dice. One normal one to notate the first digit, and another one with multiples of 10 to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as 01 or 40 depending on which dice rolled 0.
+>You roll a d100 by using two different d10 dice. One normal one to notate the first digit, and another one with multiples of 10 to notate the second digit. If 000 is rolled you roll 100 but if 0 is otherwise rolled it will be notated as for example 01 or 40 depending on which dice rolled 0.
 
 ### What is a Game Master (GM)?
 A Game Master is the person at the table who decides the rules, and plays as the world itself which the player characters will interact with. Usually including Non Player Characters (NPCs) such as bystanders, villains, rivals, or that one rat the Party adopted. They are Judge, Jury, and Executioner. Which means they have the final say on what goes in a game. Even if it contradicts the rules written here.
