@@ -1,5 +1,6 @@
 This is the appendix
 meaning all pages will have linkbacks here for quick and easy overview of the rules.
+If you don't know where to start, check out The Basics.
 
 – [The Basics](/SystemRules/The%20Basics.md)
 – [Character Creation](/SystemRules/PlayersHandbook/Character%20Creation.md)

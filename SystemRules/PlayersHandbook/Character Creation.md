@@ -1,3 +1,5 @@
+# Character Creation
+
 Character Creation can be a bit daunting at times, so here's what to do in what order to have the smoothest experience possible.
 
 ### Who are you?
