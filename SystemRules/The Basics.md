@@ -34,39 +34,39 @@ More often than not the goal of a Campaign is to defeat the BBEG, or otherwise r
 ### How do we play?
 When playing FOSSTTRPG Players can do things, or in other words perform Actions. What kinds of Actions? Any kinds of Actions! So long as you have the Components and Action Points (AP) to build them. 
 There are three fundamental types of Actions: Simple Actions, Difficult Actions, and Union Actions. 
-###### Simple Actions
+##### Simple Actions
 Simple Actions are Actions that require no effort to perform; things like eating, opening doors, walking, running, etc; you can almost always perform Simple Actions. However It is up to the GM's discretion when you can and cannot perform any one Action, but as a general rule of thumb if there's nothing stopping you from doing it, it's a Simple Action. 
-###### Difficult Actions
+##### Difficult Actions
 Difficult Actions are Actions which have some difficulty to them; meaning there is potential for Failure, and consequences. Examples of such Actions may include: Arm wrestling, studying, chasing down a thief, brewing a potion, jumping across rooftops, climbing a rope, attempting to see at long distances, healing an injury, etc... When a Player wants to perform a Difficult Action the GM will secretly set a Difficulty Check (DC) based on how difficult the task is, and then ask the Player to make a Roll. When you make a Roll you Build a Difficult Action with your AP consisting of various dice and modifiers from your Components and Boons. After you roll your Difficult Action you add together the dice and modifiers to get your Total. You can also perform a Union Action Instead of performing a Difficult Action to make a Roll.
-###### Union Actions
+##### Union Actions
 Union Actions are the third type of Action where you Build an Action alongside your Party. It can be just one other PC or it can be the whole Party; Each Participant has to spend 1 additional AP per Character participating in the Union Action in order to initiate it. After the Union Action is initiated everyone can contribute Components and Boons to the Roll. After everyone has Locked their Components and Boons you make the roll, Add together the dice and modifiers to get your Total just like with Difficult Actions.
-###### Close-call
+##### Close-call
 When the Total is less than 2 higher than the DC you get a Close-call. The Player barely succeeds in what they want, and might have to deal with some minor complications, but they got what they wanted.
-###### Success
+##### Success
 When the Total is more than 2 higher than the DC you get a Success. The Player successfully did what they wanted to, no strings attached.
-###### Near-miss
+##### Near-miss
 When the Total is less than 2 lower than the DC you get a Near-miss. The Player barely failed, and didn't get what they wanted; as a consolation prise the consequences won't be that bad. Things could be worse.
-###### Failure
+##### Failure
 This is worse. When the Total is more than 2 lower than the DC you get Failure. The Player fails
 sometimes spectacularly. The Player must now deal with the consequences of their actions. Worry not however, you can't roll worse.
-###### Critical Success
+##### Critical Success
 This is the best possible outcome for any Roll. When you roll 10 or more higher than the DC you critically succeed. The Player got more than what they wanted, and they did it in spectacular fashion; They even get a Boon Point (BP). Additionally if a Union Action was Made for the Roll every participant gets a BP.
 
 ### Components and Building Actions
 When you Build an Action you use Components. But what are Components? Components are the building blocks of Actions that you use Action Points (AP). Each Component has a Name, AP Cost, Type, Requirements, and Description displayed on the digital (or physical) Component Card.  
-###### Action Point (AP) Cost
+##### Action Point (AP) Cost
 AP Cost is the amount of AP it costs both to Initialise, and Scale the Component. When you Initialise the Component you pay the Initial AP Cost before adding the Component to your Action at Level 1. You can optionally pay more AP to Scale the Component. Components can be Scaled up to Level 6 on their own, and up to Level 7 in a Union Action. However AP Cost is not Linear. Meaning that the AP Cost to Scale depends on the Level you're Scaling towards. The AP Cost per Level is displayed as a series of numbers similar to this: "1 | 1 | 1 | 1 | 1 | 1 | 10".
 In this example the Initial AP Cost is 1, and remains 1 for every Level you Scale until Level 7 where the AP Cost is 10.
 AP is a Time Limited Resource that you only regain at the end of a Scene or at the start of your Action Phase in Combat based on your Character Level and Potential Stat. *The terminology used here will be explained at various points in the Rules. What this means for right now is that you shouldn't go and spend all of your AP on one big Action as you will be starved of it for Actions you want to take later in the same Scene or during Combat. However AP is a plentiful resource so don't be afraid to spend a lot over time as you will always be regaining AP.*
-###### Type 
+##### Type 
 Every Component can be Categorised into 3 different Types of Components. Primary, Sub, and Passive. 
 Primary Components are the foundational Component of your Action; They determine the dice Type, Initial dice, Damage Type (if there is damage), the list goes on. 
 Sub Components are supplementary components which allow you to add additional properties to your Primary Component. Such as a Modifier number based on one of the Base Stats, and or Extra dice to boost the Total; Range or increases to Spells; Cleaving properties to a powerful swing to hit multiple enemies; Disarming properties; more granular Targeting; the list goes on. You can only have one Primary Component per Action but you can have as many Secondary Components as you want supporting it.
 Passive Components are permanently active Components that alter the properties of Characters or other Components like boosting the Initial Level of a Chosen Component, increasing movement speed, letting you fight better with swords, making certain types of Magic cheaper to use, again the list goes on and on and on and on. *Which is why we have a handy [List of Components](/SystemRules/Compendium/List%20of%20Components.md) where you can browse All of the available Components currently in the game (Over time more Components will be added)*
-###### Requirements
+##### Requirements
 Some Components have Requirements which must be met before they can be added to a PC. Usually these come in the form of Level Requirements, and Stat Requirements. But what do these mean? Well Requirements are things a PC has to have in order to be able to take a Component.
 Such as Magic based Components all Requiring at least 1 Magic, Or more Powerful Components requiring a higher Level PC. 
-###### Description
+##### Description
 The Description will describe what the Component can do mechanically, and the base concept of the Component. Such as The Secondary Component Twist: which lets you add an additional dice to your Primary Component by adding a Twisting motion to somewhere in your Action. Say you want to disarm someone you can use Primary Component Bind and Twist to lock your blade with your opponent and twist it out of their arm. Perhaps you want to stab someone and twist the knife in their gut for more damage. Maybe even add a Twisting force to your Wind magic to create a Whirlwind of sorts to fly faster.
 The Description will also describe how the Component's Properties Scale. Meaning that if you Scale one Component different things will increase in comparison to if you Scaled another Component. Bind for example would increase the dice Level of the Component, while Secondary Component Analyse would let you add your Knowledge Stat to the Roll again.
 ### Performing the Action
