@@ -7,6 +7,6 @@ Along with easy and accessible indexing of the rules so that any and all rulings
 
 #### The project hasn't been playtested yet. So a majority of rules, and all parameters are subject to change based on feedback from playtesters.
 
-As for the TTRPG portion of the project you can read about all the rules in the [Appendix](Appendix.md) folder.
+As for the TTRPG portion of the project you can read about all the rules in the [Appendix](/SystemRules/Appendix.md) folder.
 
 Obsidian is the primary tool used to write the Markdown files while the software itself will be written in Rust.
