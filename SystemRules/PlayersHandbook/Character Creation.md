@@ -31,14 +31,14 @@ there's more to writing a Character than just this, but this should be good enou
 At the core of every Character you will find their Base Stats. It's what every mechanical aspect of them is based off.
 There are 6 Base Stats that outline a Character's capabilities along with a 7th Stat that stands at the core of everything in the system. 
 ##### Strength
-Embodies physical strength, raw power, endurance, athleticism, and constitution. Great at facing challenges head on, but surprisingly versatile in scenarios where you don't want to crush skulls.
-Sheer force defines Strength, but the versatility in application of said force is what makes Strength truly powerful.
+Embodies physical strength, raw power, endurance, athleticism, and constitution. Great at facing challenges head on; but surprisingly versatile in scenarios where you don't want to crush skulls.
+Sheer force defines Strength; but the versatility in application of said force is what makes Strength truly powerful.
 ##### Agility
-Embodies speed, precision, mobility, and dexterity. Great at evading strikes, gazes, and manoeuvring through sticky situations. Even better at precision attacks to break through even the toughest of guards. Agility is best defined by it's fine motor control, it's versatility in a wide array of scenarios, and overall slipperiness. 
+Embodies speed, precision, mobility, and dexterity. Great at evading strikes, gazes, and manoeuvring through sticky situations; even better at precision attacks to break through even the toughest of guards. Agility is best defined by it's fine motor control, it's versatility in a wide array of scenarios, and overall slipperiness. 
 ##### Magic
-Outlines magical capability. Aka how well you throw fireballs, shoot lightning from your fingertips, mend broken items, melt the flesh off someone's bones, teleport behind somebody, self destruct in a blaze of glory, or whatever else you can imagine. Magic is defined by creating something out of nothing. It is fundamentally extremely powerful; it is however not all powerful. It is very easy to over use magic, and there are significant consequences for doing so. 
+Outlines magical capability. Aka how well you throw fireballs, shoot lightning from your fingertips, mend broken items, melt the flesh off someone's bones, teleport behind somebody, self destruct in a blaze of glory, or whatever else you can imagine. Magic is defined by creating something out of nothing; it is fundamentally extremely powerful; it is however not all powerful. It is very easy to over use magic, and there are significant consequences for doing so. 
 ##### Knowledge
 Embodies comprehension, observation, experience, and strategics. Work smarter not harder by using the mind to better understand a tricky problem, find the weaknesses of an enemy to strike better, or even to tinker with and improve gadgets. Knowledge is power; it's best defined by the rigorous study, experimentation, and exploration you've experienced which you now leverage in a wide variety of scenarios.
 ##### Instinct
-Embodies reflexes, perception, insight, impulse, and aptitude. 
+Embodies reflexes, perception, insight, impulse, and aptitude. Gain insight into unexplained phenomena, intuit finer details others would gloss over or simply miss entirely, and feel things such as danger when others wouldn't. Instinct let's you understand parts of the world on a deeper level that cannot be conveyed with words alone; see it for what it is rather than what it pretends to be.
 ##### Presence
