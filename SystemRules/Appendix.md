@@ -1,4 +1,4 @@
-This is the appendix
+This is the appendix <br>
 meaning all pages will have linkbacks here for quick and easy overview of the rules.<br>
 If you don't know where to start, check out The Basics. <br>
 
